@@ -1,4 +1,4 @@
-# USO DE *args y **kwargs UNPACKING VARIABLES
+# UNPACKING VARIABLES. USO DE *args y **kwargs 
 print("Ejemplo 1")
 users = ['tony', 'andy', 'james']
 print (users)
